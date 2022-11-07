@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "hydrargyrum_ingot",
+  "ingredient": {
+    "item": "yifancorelib:hydrargyrum_ore"
+  },
+  "result": "yifancorelib:hydrargyrum_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

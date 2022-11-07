@@ -1,0 +1,20 @@
+{
+  "type" : "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "yifancorelib:hydrargyrum_ingot"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    }
+  ],
+  "result":
+  {
+    "item": "yifancorelib:gilding",
+    "count": 1
+  }
+}

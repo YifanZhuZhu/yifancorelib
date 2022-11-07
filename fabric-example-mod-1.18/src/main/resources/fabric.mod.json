@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "yifancorelib",
+  "version": "${version}",
+
+  "name": "yifancorelib",
+  "description": "A terrible mod made by YifanZhuZhu.",
+  "authors": [
+    "YifanZhuZhu"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/yifancorelib/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.github.yifanzhuzhu.yifancorelib"
+    ]
+  },
+  "mixins": [
+    "yifancorelib.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.18.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

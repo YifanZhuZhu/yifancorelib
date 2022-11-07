@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W",
+    "W",
+    "X"
+  ],
+  "key": {
+    "W": {
+      "item": "yifancorelib:gilding"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "yifancorelib:gilding_sword",
+    "count": 1
+  }
+}
