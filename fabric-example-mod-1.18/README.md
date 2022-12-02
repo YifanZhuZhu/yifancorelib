@@ -8,6 +8,6 @@ There are gilding things , "French bread" and "English cod fish" now.
 
 This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
 
-##My blog
+## My blog
 
-[Yifanzhuzhu'sBlog]blog.yifanzhuzhu.tk
+[Yifanzhuzhu's Blog] blog.yifanzhuzhu.tk
