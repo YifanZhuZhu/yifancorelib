@@ -1,8 +1,8 @@
-# Fabric Example Mod
+# YifanCoreLib
 
-## Setup
+## Items
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+There are gilding things , "French bread" and "English cod fish" now.
 
 ## License
 
