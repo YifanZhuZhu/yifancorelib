@@ -2,7 +2,7 @@
 
 ## Items
 
-There are gilding things , "French bread" and "English cod fish" now.
+There are gilding things , "French bread" ,"hard mooncake" and "English cod fish" now.
 
 ## License
 

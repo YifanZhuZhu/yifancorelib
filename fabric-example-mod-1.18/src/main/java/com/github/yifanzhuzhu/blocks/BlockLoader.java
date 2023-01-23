@@ -8,11 +8,11 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 public class BlockLoader {
-    public static final Block HP_ORE = new BlockHpOre();
+    public static final Block HG_ORE = new BlockHgOre();
 
     public BlockLoader()
     {
-        register("hydrargyrum_ore", HP_ORE);
+        register("hydrargyrum_ore", HG_ORE);
     }
 
     private void register(String name, Block block)

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "YZY",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:wheat"
+    },
+    "Y": {
+      "item": "yifancorelib:five_nut_filling"
+    },
+    "Z": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "yifancorelib:mooncake",
+    "count": 1
+  }
+}

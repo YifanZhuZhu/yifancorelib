@@ -1,0 +1,38 @@
+{
+  "type" : "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:beetroot_seeds"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:pumpkin_seeds"
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:red_mushroom"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result":
+  {
+    "item": "yifancorelib:five_nut_filling",
+    "count": 1
+  }
+}
